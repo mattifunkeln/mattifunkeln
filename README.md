@@ -2,6 +2,6 @@
 
 **current projects:**
 
-- student @ <a href="https://uni-due.de">uni-due.de<a/>
+- student @ <a href="https://uni-due.de">uni-due.de</a>
 
-- blog @ (to-do)
+- blog @ <a href="https://mattifunkeln.github.io/blog/">mattifunkeln</a>
